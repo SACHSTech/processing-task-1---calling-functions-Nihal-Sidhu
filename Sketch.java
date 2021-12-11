@@ -45,6 +45,19 @@ public class Sketch extends PApplet {
     
     fill(255, 0, 0);
     rect(140, 190, 200, 200);
+    
+    fill(165,42,42);
+    rect(40,220, 40, 170);
+    
+    fill(0,255,0);
+    ellipse(61,190,70,70);
+    
+    fill(165,42,42);
+    rect(300,320,40,70);
+    
+    fill(0,0,255);
+    ellipse(330,360,10,10);
+    
   }
   
   // define other methods down here.
